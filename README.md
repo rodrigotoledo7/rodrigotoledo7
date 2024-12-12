@@ -1,3 +1,7 @@
+## Github and GitLab Activity
+
+![rodrigotoledo7 GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=rodrigotoledo7&gitlabUsername=r.toledo)
+
 ## Hi my name is Rodrigo!
 
 DevOps Engineer at Tribunal de Justiça do Estado de Rondônia
